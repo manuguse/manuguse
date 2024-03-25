@@ -17,7 +17,7 @@
 
 <p>Welcome to my GitHub page! I'm Emanuelle and I'm currently in the third phase of the Computer Science course at UFSC.</p>
 <p>📚 student at <a href="https://ufsc.br/" target="_blank">UFSC</a></p>
-<p>🏢 working at <a href="https://labsec.ufsc.br/" target="_blank">LabSEC</a></p>
+<p>🏢 intern at <a href="https://labsec.ufsc.br/" target="_blank">LabSEC</a></p>
 <p>🧩 puzzles and board games lover</p>
 
 <div>
