@@ -1,4 +1,4 @@
-<img align="center" alt="waves-divider" src="https://github.com/manuguse/manuguse/blob/main/assets/wavesOpacity.svg"/>
+<img align="center" alt="waves-divider" src="https://github.com/manuguse/manuguse/blob/main/assets/wavesOpacity(1).svg"/>
 
 
 <div align="center">
