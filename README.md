@@ -1,41 +1,33 @@
-## welcome to my github profile!
+<div align="center">
+  <h1>hi there, i'm emanuelle guse <img src="https://github.com/manuguse/manuguse/blob/main/assets/hi.gif" width="40px"></h1>
+  <br />
+  <div>
+    <a href="https://github.com/manuguse"><img src="https://img.shields.io/badge/-github-000?style=flat&logo=Github&logoColor=white" target="_blank" alt="Github"></a>
+    <a href="https://www.linkedin.com/in/emanuelle-guse-8161b5266/"><img src="https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
+    <a href="mailto:emanuguse@gmail.com"><img src="https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white" target="_blank" alt="Gmail"></a>
+  </div>
+</div>
 
-descricao descricao descricao 
+<h2>about me</h2>
+
+<img align="right" alt="computer-gif" src="https://github.com/manuguse/manuguse/blob/main/assets/computer.gif" width="35%" height="auto" />
+
+<p>welcome to my GitHub page! I'm Emanuelle and I'm currently in the third phase of the Computer Science course at UFSC.</p>
+<p>📚 student at <a href="https://ufsc.br/" target="_blank">UFSC</a></p>
+<p>🏢 working at <a href="https://labsec.ufsc.br/" target="_blank">LabSEC</a></p>
+<p>🧩 puzzles and board games lover</p>
+
+
+<div>
+    <img src="https://github.com/manuguse/manuguse/blob/main/assets/icons/python-svgrepo-com.svg" alt="python" width="35" height="auto" />
+    <img src="https://github.com/manuguse/manuguse/blob/main/assets/icons/java-svgrepo-com.svg" alt="java" width="40" height="auto" />
+    <img src="https://github.com/manuguse/manuguse/blob/main/assets/icons/cpp-svgrepo-com.svg" alt="cpp" width="40" height="auto" />
+    <img src="https://github.com/manuguse/manuguse/blob/main/assets/icons/dart-svgrepo-com.svg" alt="dart" width="37" height="auto" />
+    <img src="https://github.com/manuguse/manuguse/blob/main/assets/icons/ae.svg" alt="after effects" width="35" height="auto"/>
+    <img src="https://github.com/manuguse/manuguse/blob/main/assets/icons/ps.svg" alt="photoshop" width="39" height="auto" />
+
+</div> </p>
+
+<h2>github stats</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuguse&layout=donut&theme=radical)
-
-## Linguagens e Ferramentas
-
-![VHDL](https://img.shields.io/badge/-VHDL-blue?style=for-the-badge&logo=VHDL&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=dart&logoColor=white)
-
-## Projetos em Destaque
-
-Liste alguns dos seus projetos mais significativos. Você pode incluir uma breve descrição de cada projeto, bem como links para seus repositórios no GitHub.
-
-1. [Nome do Projeto 1](link_para_projeto_1): Breve descrição do projeto.
-2. [Nome do Projeto 2](link_para_projeto_2): Breve descrição do projeto.
-
-
-
-## Contato
-
-- LinkedIn: [Seu Perfil no LinkedIn](link_para_perfil_no_linkedin)
-- Twitter: [@SeuTwitter](link_para_perfil_no_twitter)
-- Email: seu@email.com
-
-## Outras Plataformas
-
-Você pode incluir links para outras plataformas onde você está ativo, como seu blog, Medium, Dev.to, etc.
-
-## Agradecimentos
-
-Agradeça às pessoas que contribuíram para seus projetos e à comunidade de código aberto em geral.
-
-## Licença
-
-Este README está licenciado sob a [Licença MIT](link_para_licenca).
-
