@@ -1,3 +1,6 @@
+<img align="center" alt="waves-divider" src="https://github.com/manuguse/manuguse/blob/main/assets/wavesOpacity.svg"/>
+
+
 <div align="center">
   <h1>hi there, i'm emanuelle guse <img src="https://github.com/manuguse/manuguse/blob/main/assets/hi.gif" width="40px"></h1>
   <br />
@@ -17,7 +20,6 @@
 <p>🏢 working at <a href="https://labsec.ufsc.br/" target="_blank">LabSEC</a></p>
 <p>🧩 puzzles and board games lover</p>
 
-
 <div>
     <img src="https://github.com/manuguse/manuguse/blob/main/assets/icons/python-svgrepo-com.svg" alt="python" width="35" height="auto" />
     <img src="https://github.com/manuguse/manuguse/blob/main/assets/icons/java-svgrepo-com.svg" alt="java" width="40" height="auto" />
@@ -25,9 +27,28 @@
     <img src="https://github.com/manuguse/manuguse/blob/main/assets/icons/dart-svgrepo-com.svg" alt="dart" width="37" height="auto" />
     <img src="https://github.com/manuguse/manuguse/blob/main/assets/icons/ae.svg" alt="after effects" width="35" height="auto"/>
     <img src="https://github.com/manuguse/manuguse/blob/main/assets/icons/ps.svg" alt="photoshop" width="39" height="auto" />
-
 </div> </p>
 
 <h2>github stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuguse&layout=donut&theme=radical)
+<div align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=manuguse&layout=donut&theme=radical&height">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuguse&layout=donut&theme=radical&height" />
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=manuguse&theme=radical">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuguse&theme=radical" />
+</a>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/manuguse/manuguse/main/assets/comp.webp?token=GHSAT0AAAAAACP555LNMVURXEV7U6TBCVJGZQCCGUA" width=83%/>
+
+</div>
+
+
+<h2>ufsc reps</h2>
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=INE5202&theme=radical)](https://github.com/manuguse/INE5202) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=INE5408&theme=radical)](https://github.com/manuguse/INE5408)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=INE5410&theme=radical)](https://github.com/manuguse/INE5410) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=EEL7123&theme=radical)](https://github.com/manuguse/EEL7123)
+
+</div>
