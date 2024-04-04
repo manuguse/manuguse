@@ -49,6 +49,6 @@
 <div align="center">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=INE5202&theme=radical)](https://github.com/manuguse/INE5202) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=INE5408&theme=radical)](https://github.com/manuguse/INE5408)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=INE5410&theme=radical)](https://github.com/manuguse/INE5410) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=EEL7123&theme=radical)](https://github.com/manuguse/EEL7123)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=INE5410&theme=radical)](https://github.com/manuguse/INE5410) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=INE5411&theme=radical)](https://github.com/manuguse/INE5411)
 
 </div>
