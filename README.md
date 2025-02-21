@@ -32,14 +32,18 @@
 <h2>github stats</h2>
 
 <div align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=manuguse&layout=donut&theme=radical&height">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuguse&layout=donut&theme=radical&height" />
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=manuguse&theme=radical">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuguse&theme=radical" />
-</a>
-<br>
-<br>
-<img src="https://raw.githubusercontent.com/manuguse/manuguse/main/assets/comp.webp?token=GHSAT0AAAAAACP555LNMVURXEV7U6TBCVJGZQCCGUA" width=83%/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=manuguse&layout=donut&theme=radical">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuguse&layout=donut&theme=radical" />
+  </a>
+
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=manuguse&theme=radical">
+    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuguse&theme=radical" />
+  </a>
+
+  <br><br>
+
+  <img src="https://github.com/manuguse/manuguse/blob/main/assets/comp.webp" width="83%"/>
+</div>
 
 </div>
 
