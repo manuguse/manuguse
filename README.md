@@ -18,6 +18,9 @@ Sou apaixonada por programação e gosto de unir lógica e criatividade em tudo 
 
 Obrigada por visitar meu perfil! 💜
 
+<br>
+<br>
+
 ## skills & tools
 
 <div align="center">
