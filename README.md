@@ -1,30 +1,22 @@
 <img align="center" width=100% alt="waves-divider" src="https://github.com/manuguse/manuguse/blob/main/assets/wavesOpacity(1).svg"/>
 
 <div align="center">
-  <h1>Hi there, I'm Emanuelle Guse <img src="https://github.com/manuguse/manuguse/blob/main/assets/hi.gif" width="40px"></h1>
+  <h1>bem vindo ao meu perfil <img src="https://github.com/manuguse/manuguse/blob/main/assets/hi.gif" width="40px"></h1>
   
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manuguse)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelle-guse-8161b5266/)
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuguse@gmail.com)
 </div>
 
-## about me
+## sobre mim
 
 <img align="right" alt="computer-gif" src="https://github.com/manuguse/manuguse/blob/main/assets/computer.gif" width="35%" height="auto" />
 
-```java
-public class Emanuelle {
-    private String name = "Emanuelle Guse";
-    private String education = "Computer Science @ UFSC (5th phase)";
-    private String work = "Intern @ LabSEC";
-    private String[] other_interests = {"Puzzles", "Board Games", 
-    \n"Design", "Handball", "Dance"};
-    
-    public void sayHi() {
-        System.out.println("Thanks for stopping by!");
-    }
-}
-```
+Olá! Me chamo Emanuelle Guse, sou estudante de Ciência da Computação na UFSC (5º semestre) e desenvolvedora no LabSEC (Laboratório de Segurança em Computação).
+
+Sou apaixonada por programação e gosto de unir lógica e criatividade em tudo o que faço. Fora da computação, me interesso por design, board games, dança e esportes em geral.
+
+Obrigada por visitar meu perfil! 💜
 
 ## skills & tools
 
@@ -52,10 +44,10 @@ public class Emanuelle {
   
 </div>
 
-## academic journey
+## jornada acadêmica
 
 <details>
-<summary><b>2024.2 - 4th Period</b></summary>
+<summary><b>2024.2 - 4º Semestre</b></summary>
 <div align="center">
   <a href="https://github.com/manuguse/INE5416">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=INE5416&theme=radical&hide_border=true" />
@@ -70,7 +62,7 @@ public class Emanuelle {
 </details>
 
 <details>
-<summary><b>2024.1 - 3rd Period</b></summary>
+<summary><b>2024.1 - 3º Semestre</b></summary>
 <div align="center">
   <a href="https://github.com/manuguse/INE5202">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=INE5202&theme=radical&hide_border=true" />
@@ -88,7 +80,7 @@ public class Emanuelle {
 </details>
 
 <details>
-<summary><b>2023.2 - 2nd Period</b></summary>
+<summary><b>2023.2 - 2º Semestre</b></summary>
 <div align="center">
   <a href="https://github.com/manuguse/EEL7123">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=EEL7123&theme=radical&hide_border=true" />
@@ -106,7 +98,7 @@ public class Emanuelle {
 </details>
 
 <details>
-<summary><b>2023.1 - 1st Period</b></summary>
+<summary><b>2023.1 - 1º Semestre</b></summary>
 <div align="center">
   <a href="https://github.com/manuguse/INE5402">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuguse&repo=INE5402&theme=radical&hide_border=true" />
