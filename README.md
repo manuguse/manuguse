@@ -12,9 +12,9 @@
 
 <img align="right" alt="computer-gif" src="https://github.com/manuguse/manuguse/blob/main/assets/computer.gif" width="35%" height="auto" />
 
-Olá! Me chamo Emanuelle Guse, sou estudante de Ciência da Computação na UFSC (5º semestre) e desenvolvedora no LabSEC (Laboratório de Segurança em Computação).
+Olá! Me chamo Emanuelle Guse, sou estudante de Ciência da Computação na UFSC (6º semestre) e desenvolvedora no LabSEC (Laboratório de Segurança em Computação).
 
-Sou apaixonada por programação e gosto de unir lógica e criatividade em tudo o que faço. Fora da computação, me interesso por design, board games, dança e esportes em geral.
+Sou apaixonada por programação e gosto de unir lógica e criatividade em tudo o que faço. Fora da computação, me interesso por design, jogos de tabuleiro e de cartas, dança e esportes em geral.
 
 Obrigada por visitar meu perfil! 💜
 
