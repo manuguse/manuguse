@@ -4,7 +4,7 @@
   <h1>bem vindo ao meu perfil <img src="https://github.com/manuguse/manuguse/blob/main/assets/hi.gif" width="40px"></h1>
   
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manuguse)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelle-guse-8161b5266/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelle-guse/)
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuguse@gmail.com)
 </div>
 
@@ -12,11 +12,11 @@
 
 <img align="right" alt="computer-gif" src="https://github.com/manuguse/manuguse/blob/main/assets/computer.gif" width="35%" height="auto" />
 
-Olá! Me chamo Emanuelle Guse, sou estudante de Ciência da Computação na UFSC (6º semestre) e desenvolvedora no LabSEC (Laboratório de Segurança em Computação).
+Olá! Me chamo Emanuelle Guse, estou no 6º semestre de Ciência da Computação na UFSC e sou desenvolvedora no LabSEC (Laboratório de Segurança em Computação).  
 
-Sou apaixonada por programação e gosto de unir lógica e criatividade em tudo o que faço. Fora da computação, me interesso por design, jogos de tabuleiro e de cartas, dança e esportes em geral.
+Sou apaixonada por programação e gosto de explorar tanto a parte lógica quanto a criativa do desenvolvimento de software.
 
-Obrigada por visitar meu perfil! 💜
+Fora da área acadêmica, gosto de me envolver com design, jogos de tabuleiro e cartas, além de manter o equilíbrio com atividades como dança e esportes.
 
 <br>
 <br>
@@ -24,13 +24,16 @@ Obrigada por visitar meu perfil! 💜
 ## skills & tools
 
 <div align="center">
+  <div align="center">
+  <div align="center">
   
-| Languages | Tools & Frameworks | Design |
-|-----------|-------------------|--------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white) |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) |
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) |
+| linguagens e frameworks | ferramentas e plataformas | bancos de dados |
+|------------------------|-------------------|-----------|
+| ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+
+</div>
+
+</div>
 
 </div>
 
